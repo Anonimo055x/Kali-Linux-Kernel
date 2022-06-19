@@ -1,7 +1,7 @@
 # Kali-Linux-Kernel
 
 
-Codigo para adaptar...
+Codigo aberto rodando o disco da maquina no processador.
 
 
 Fiz com o disco iso para maquina virtual!
